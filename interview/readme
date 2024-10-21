@@ -1,0 +1,42 @@
+1. Tell me about yourself ?
+2. What is HTML?
+3. What are tags and attributes in HTML?
+4. What are different types of lists in HTML?
+5. What is the ‘class’ attribute in HTML?
+6. Describe HTML layout structure.
+7. Difference between Class annd Id ?
+8. Difference between semantic and non-semantic ?
+9. what are block element and inline element?
+10. What is the difference between “display: none” and “visibility: hidden”, when used as attributes to the HTML element.
+
+11. In how many ways can we specify the CSS styles for the HTML element?
+12. Difference between link tag <link> and anchor tag <a>?
+13. What are forms and how to create forms in HTML?
+
+14. What are some of the advantages of HTML5 over its previous versions?
+15. difference between html4 and html5?
+16. what is meta data?
+17. In how many ways you can display HTML elements?
+18. What is the difference between HTML and CSS?
+19. How do you create a hyperlink in HTML?
+20. What is the difference between an absolute and relative URL?
+21. What do you understand by the universal sector?
+22. Differentiate between CSS3 and CSS2?
+23. Define z-index.
+24. Explain responsive web design.
+25. What is a CSS Preprocessor? What are Sass, Less, and Stylus? Why do people use them?
+26. What is VH/VW (viewport height/ viewport width) in CSS?
+
+27. What is the difference between inline, inline-block, and block?
+28. What are Pseudo classes?
+29. Differentiate between absolute and relative in CSS.
+30. What is the Box model in CSS? Which CSS properties are a part of it?
+31. How to create a nested webpage in HTML?
+    33)How do you center an element horizontally in CSS?
+    34)What is the difference between padding and margin in CSS?
+    35)Explain the difference between px, %, em, and rem units in CSS.
+    36)What is the purpose of the CSS opacity property?
+    37)Explain the difference between nth-child() and:nth-of-type() selectors.
+    38)Explain the concept of the CSS calc() function and how it can be used.
+    39)Explain the concept of CSS specificity and inheritance in the context of the !important rule.
+    40)What are two steps to write css.
